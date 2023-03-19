@@ -1,0 +1,5 @@
+ocf/library/core/interfaces/TRequestHandler.class
+ocf/library/web/client/config/WebClientConfig.class
+ocf/library/web/client/exception/DownStreamUnavailableException.class
+ocf/library/web/client/component/RestClient.class
+ocf/library/web/client/exception/DownStreamDataException.class
